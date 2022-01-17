@@ -1,6 +1,1 @@
-Members:
-Flocer Angelo Bustamante
-Aldrelyn Dayaday
-Rana Mae Gocotano
-Melanie Samonte Mendez
-Roey
+This is the first website I created and it is an unorganized
